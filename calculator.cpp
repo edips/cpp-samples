@@ -47,6 +47,7 @@ int main(){
                 cout << "Division: " << firstNum/secondNum << endl;
             }
         }
+        system("pause");
     }
     return 0;
 
